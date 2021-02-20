@@ -325,4 +325,6 @@ MainWindow.showMinimized()
 MainWindow.show()
 sys.exit(app.exec_())
 
-
+#TODO Add multritreding so application can check all the time if new file have been added to the folder.
+#TODO if new file habe been found it should maximalize window.
+#TODO convert application to exe file.
